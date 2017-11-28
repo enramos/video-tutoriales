@@ -13,9 +13,11 @@ A la derecha de las barras podemos ver que dice **No Audio. **Pulsaremos en la 
 
 <img src="img/Seleccion_436.png" height="99" />   <img src="img/Seleccion_437.png" height="48" />   <img src="img/Seleccion_438.png" height="49" />
 
-Una vez que hemos grabado todas, pasamos a grabar el vídeo. Esto nos abre el interfaz de grabación que es casi igual  que el que ya conocemos. La novedad es que nos reproduce el audio mientras nos muestra el texto de cada barra. Cuando terminemos de grabar el vídeo de un paso, podemos pasar al siguiente pulsando ****Alt+****N**** en PC y ****Opción+N**** en Mac. Si nos equivocamos podemos pausar la grabación y desplazarnos hasta el punto en que queremos volver a grabar bien de manera manual o bien con los controles. Si tardamos en grabar el vídeo más tiempo de lo que dura el audio, no pasa nada, Screencast-o-matic rellena con silencio el resto de la sección.
+Una vez que hemos grabado todas, pasamos a grabar el vídeo. Esto nos abre el interfaz de grabación que es casi igual  que el que ya conocemos. La novedad es que nos reproduce el audio mientras nos muestra el texto de cada barra. Cuando terminemos de grabar el vídeo de un paso, podemos pasar al siguiente pulsando **Alt+N** en PC y **Opción+N** en Mac. Si nos equivocamos podemos pausar la grabación y desplazarnos hasta el punto en que queremos volver a grabar bien de manera manual o bien con los controles. Si tardamos en grabar el vídeo más tiempo de lo que dura el audio, no pasa nada, Screencast-o-matic rellena con silencio el resto de la sección.
 
-<img src="img/Seleccion_439.png" height="223" />Una vez hayamos terminado de grabar todos los pasos y tengamos el vídeo completo pulsaremos ****Done**** y volveremos a la pantalla anterior. Las barras aparecen ahora con más opciones. Entre ellas, una muy interesante es la de los fragmentos de vídeo que no tienen audio. Para hacer esto nos ofrece tres opciones:
+Una vez hayamos terminado de grabar todos los pasos y tengamos el vídeo completo pulsaremos ****Done**** y volveremos a la pantalla anterior. Las barras aparecen ahora con más opciones. Entre ellas, una muy interesante es la de los fragmentos de vídeo que no tienen audio. Para hacer esto nos ofrece tres opciones:
+
+<img src="img/Seleccion_439.png" height="223" />
 
 - **Absorber silencio**: él vídeo entero de esa sección va más rápido para que dure lo mismo que el audio.
 - **Cortar silencio**.
@@ -25,5 +27,5 @@ Una vez ajustado esto pulsaríamos sobre ****Edit Video**** para pasar a la vent
 
 ## ¿Quieres ver cómo se hace?
 
-<iframe width="100%" height="350" src="//www.youtube.com/embed/0DdqSlj7K7A?rel=0" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=0DdqSlj7K7A
 

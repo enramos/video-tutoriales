@@ -1,9 +1,8 @@
 
-# Interfaz de Shotcut
+# Interfaz de Shotcut.
 
-<iframe width="100%" height="618" src="//www.youtube.com/embed/oA8rjt2o-mM" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=oA8rjt2o-mM
 
 
-
-<iframe width="100%" height="618" src="//www.youtube.com/embed/sLBsALVtBuI" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=sLBsALVtBuI
 

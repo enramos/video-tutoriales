@@ -19,9 +19,14 @@ También nos deja elegir si queremos que se vea el cursor o no, y en las opcione
 
 Si hemos registrado la webcam en la fase de grabación podemos activarla o desactivarla. Esto incluso podemos hacerlo en momentos dados haciendo uso de las herramientas de edición.
 
-<img src="img/Seleccion_430.png" height="373" />Una vez en el timeline, el cual podemos agrandar o reducir para que sea más fácil la navegación, nos muestra la forma de onda de la narración. Así es muy fácil ver si en una sección dada tenemos audio o no. Resultará especialmente útil para todo el tema de transiciones, cortar, etc.
+
+
+Una vez en el timeline, el cual podemos agrandar o reducir para que sea más fácil la navegación, nos muestra la forma de onda de la narración. Así es muy fácil ver si en una sección dada tenemos audio o no. Resultará especialmente útil para todo el tema de transiciones, cortar, etc.
 
 Sobre la cabeza lectora, la línea lectora que nos marca el punto de tiempo que previsualizamos en pantalla, tenemos un menú emergente con todas las herramientas:
+
+<img src="img/Seleccion_430.png" height="373" />
+
 
 - **Cut**: corta partes que no queramos en el vídeo. Corta tanto el audio como el vídeo.
 - **Copy**: copia una parte del vídeo que luego podemos pegar con la herramienta **Insert**.
@@ -39,5 +44,5 @@ Una vez aplicados los efectos, sólo queda pulsar en el **Done** y **exportar** 
 
 ## ¿Quieres ver cómo se hace?
 
-<iframe width="100%" height="350" src="//www.youtube.com/embed/oeS7k-QzvEs?rel=0" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=oeS7k-QzvEs
 

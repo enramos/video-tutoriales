@@ -8,14 +8,13 @@ En Screencast-o-matic, como ya hemos comentado, que existen dos modos de uso:
 
 Nada más acceder a la web oficial de Screencast-o-matic podemos pulsar sobre **Start Recording **y, tras instalar un lanzador, nos pide volver a la página oficial donde ya podríamos darle a grabar
 
-<img src="img/Seleccion_421.png" height="316" />Al hacerlo se nos abre una nuevaventana donde nos ofrece en tres modos de grabacií³n:
-
+Al hacerlo se nos abre una nueva ventana donde nos ofrece en tres modos de grabación:
 
 <img src="img/Seleccion_421.png" height="316" />
 
 - Pantalla
 - Webcam
-- Ambo
+- Ambos
 
 El recuadro de líneas blancas y negras marca la ventana de captura. Todo lo que esté fuera no será capturado. En la ventana de grabación, además, tenemos otros menús:
 
@@ -29,7 +28,7 @@ En esta versión, que es la de pago, vemos: el contador de tiempo de grabación,
 
 <img src="img/Seleccion_422.png" height="35" />
 
-- Las ****herramientas de dibujo** **cuentan con los siguientes elementos: trazado o línea libre; línea recta, flechas... cajas o recuadros, óvalos y subrayados. Además de esto tenemos el borrador y un selector de colores donde tenemos una amplia gama.
+- Las ****herramientas de dibujo**** cuentan con los siguientes elementos: trazado o línea libre; línea recta, flechas... cajas o recuadros, óvalos y subrayados. Además de esto tenemos el borrador y un selector de colores donde tenemos una amplia gama.
 
 <img src="img/Seleccion_423.png" height="31" />
 
@@ -43,5 +42,5 @@ La versión de pago, que cuesta 15 dólares, como unos 10 euros, ofrece una gran
 
 ## ¿Quieres ver cómo se hace?
 
-<iframe width="100%" height="350" src="//www.youtube.com/embed/ztbt1gSyfjA?rel=0" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=ztbt1gSyfjA
 

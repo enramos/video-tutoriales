@@ -1,7 +1,9 @@
 
 # SimpleScreenRecorder
 
-<img src="img/Simple.jpg" height="189" />Entre las varias opciones que tenemos para grabar el escritorio en **Linux** encontramos SimpleScreenRecorder. También posee la **opción de seguir ratón**.****
+<img src="img/Simple.jpg" height="189" />
+
+Entre las varias opciones que tenemos para grabar el escritorio en **Linux** encontramos SimpleScreenRecorder. También posee la **opción de seguir ratón**.
 
 Características notables de la aplicación son
 
@@ -19,5 +21,4 @@ Podemos ver más opciones de instalación en la web oficial del programa: [http
 
 ## ¿Quieres ver cómo se hace?
 
-<iframe width="100%" height="350" src="//www.youtube.com/embed/DSBXuWAltfM?rel=0" frameborder="0"></iframe>
-
+https://www.youtube.com/watch?v=DSBXuWAltfM

@@ -1,7 +1,9 @@
 
 # Grabando
 
-<img src="img/Seleccion_441.png" height="394" />Una vez abierto lo primero que vemos es que podemos hacernos un perfil para guardar nuestra configuración y así recuperarla fácilmente. Entre las opciones de grabación que nos aparecen son:
+Una vez abierto lo primero que vemos es que podemos hacernos un perfil para guardar nuestra configuración y así recuperarla fácilmente. Entre las opciones de grabación que nos aparecen son:
+
+<img src="img/Seleccion_441.png" height="394" />
 
 - Pantalla completa.
 - Grabar un rectángulo.
@@ -12,7 +14,7 @@ Podemos configurar tanto la base de **fotogramas por segundo** (tasa de fotogram
 
 La **entrada de audio** es también configurable, pudiendo seleccionar la entrada que queramos. La configuración que yo recomendaría para no complicarse sería:  sistema **ALSA** y en fuente el que ponga **Analog** o analógicas.
 
-Cuando clicamos en C**ontinuar** se nos abre un menú en el que podemos seleccionar el nombre de archivo resultante y en qué formato queremos que se grabe. Volvemos a darle a continuar y vemos que, además de grabar con el botón de **Iniciar grabación**, podemos configurar el atajo de teclado que activa la grabación.
+Cuando clicamos en **Continuar** se nos abre un menú en el que podemos seleccionar el nombre de archivo resultante y en qué formato queremos que se grabe. Volvemos a darle a continuar y vemos que, además de grabar con el botón de **Iniciar grabación**, podemos configurar el atajo de teclado que activa la grabación.
 
 <img src="img/Seleccion_442.png" height="122" />
 
@@ -22,5 +24,5 @@ SimpleScreenRecorder no tiene opciones de edición por lo que tendríamos que ut
 
 ## ¿Quieres ver cómo se hace?
 
-<iframe width="100%" height="350" src="//www.youtube.com/embed/06OV5IcYZWo?rel=0" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=06OV5IcYZWo
 
