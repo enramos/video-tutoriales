@@ -1,9 +1,9 @@
 
 # Ezvid
 
-<img src="img/image02.jpg" height="177" />Ezvid es otra potente herramienta gratuita para capturar la pantalla de nuestro ordenador. Puede grabar hasta 45 minutos en una sola captura en formato HD (HDReady optimizado para su subida a Youtube) y soporta recortes de regiones de la pantalla. Lo mejor de todo es que no deja ninguna molesta marca de agua en el archivo resultante.
+Ezvid es otra potente herramienta gratuita para capturar la pantalla de nuestro ordenador. Puede grabar hasta 45 minutos en una sola captura en formato HD (HDReady optimizado para su subida a Youtube) y soporta recortes de regiones de la pantalla. Lo mejor de todo es que no deja ninguna molesta marca de agua en el archivo resultante.
 
-
+<img src="img/image02.jpg" height="177" />
 
 Respecto al audio, soporta grabar desde la entrada de micro. Además normaliza automáticamente la señal (iguala el volumen para que no haya molestas subidas o bajadas de nivel durante la captura) y la optimiza para una óptima calidad. Puede también añadir efectos de sonido e incluso crear una voz sintetizada a partir de una archivo de texto.
 
@@ -29,9 +29,9 @@ Respecto al audio, soporta grabar desde la entrada de micro. Además normaliza a
 
 - El Interfaz gráfico de Ezvid es es siguiente:
 
-Â <img alt="" src="img/image00.jpg" title="" height="353" />
+ <img alt="" src="img/image00.jpg" title="" height="353" />
 
 ## ¿Quieres ver cómo se hace?
 
-<iframe width="100%" height="350" src="//www.youtube.com/embed/X8K4Vo7UyWo?rel=0" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=X8K4Vo7UyWo
 
