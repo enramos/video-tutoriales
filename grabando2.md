@@ -6,13 +6,16 @@ En Screencast-o-matic, como ya hemos comentado, que existen dos modos de uso:
 - A través del explorador web, entrando en [www.screncast-o-matic.com](http://www.screncast-o-matic.com)
 - Instalando el programa en nuestro ordenador.
 
-Nada más acceder a la web oficial de Screencast-o-matic podemos pulsar sobre **Start Recording **y tras instalar un lanzador nos pide volver a la página oficial donde ya podríamos darle a grabar.
+Nada más acceder a la web oficial de Screencast-o-matic podemos pulsar sobre **Start Recording **y, tras instalar un lanzador, nos pide volver a la página oficial donde ya podríamos darle a grabar
 
 <img src="img/Seleccion_421.png" height="316" />Al hacerlo se nos abre una nuevaventana donde nos ofrece en tres modos de grabacií³n:
 
+
+<img src="img/Seleccion_421.png" height="316" />
+
 - Pantalla
 - Webcam
-- Ambos
+- Ambo
 
 El recuadro de líneas blancas y negras marca la ventana de captura. Todo lo que esté fuera no será capturado. En la ventana de grabación, además, tenemos otros menús:
 

@@ -49,6 +49,7 @@ Haciendo doble click sobre el archivo que hemos descargado  (InstallScreencastO
 Una vez instalado, cuando arrancamos el programa veremos este interfaz.
 </li>
 
+![](/assets/ScCoMimage00.jpg)
 <li dir="ltr">
 Si sólo queremos utilizar Screencast-o-matic de una manera puntual, lo ideal es usar la aplicación web. Pulsando el botón de start recorder se nos abrirá la aplicación y podremos empezar inmediatamente a grabar todo lo que esté dentro del recuadro.
 </li>
@@ -57,5 +58,5 @@ Si sólo queremos utilizar Screencast-o-matic de una manera puntual, lo ideal es
 
 ## ¿Quieres ver cómo se hace?
 
-<iframe width="100%" height="350" style="display: block; margin-left: auto; margin-right: auto;" src="//www.youtube.com/embed/tgM-WXSZ5IM?rel=0" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=tgM-WXSZ5IM
 
