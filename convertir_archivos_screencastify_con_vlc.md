@@ -48,6 +48,5 @@ Y ya está, ya tendríamos el archivo en formato MP4
 
 
 ## ¿Quieres ver cómo se hace?
-
-<iframe width="100%" height="350" src="//www.youtube.com/embed/y_ZJtUummLc?rel=0" frameborder="0"></iframe>
+https://www.youtube.com/watch?v=y_ZJtUummLc
 
