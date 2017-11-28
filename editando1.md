@@ -15,8 +15,7 @@ Crea archivos .webm, [WebM](https://www.google.com/url?q=https://es.wikipedia.or
 
 
 
-<img src="img/image01.3.jpg" height="285" />A la hora de grabar la pantalla contamos con 3 modos diferentes:Â TAB (ventana) DESKTOP (escritorio) y CAM (Webcam)
-
+<img src="img/image01.3.jpg" height="285" />A la hora de grabar la pantalla contamos con 3 modos diferentes: TAB (ventana) DESKTOP (escritorio) y CAM (Webcam)
 
 
 **El modo TAB** nos permite grabar tanto el audio de nuestra entrada de micrófono como el audio de sistema (es decir todo el audio que salga por nuestros altavoces). Nos permite también insertar el vídeo proveniente de nuestra webcam en el vídeo.
@@ -29,14 +28,15 @@ La diferencia entre este modo y el modo desktop es que nos permite usar herramie
 
 Las herramientas de las que disponemos son:
 
-1. <img src="img/image03.3.jpg" height="81" />Enfocar cursor (ALT+F)
-1. Ocultar cursor (ALT+H)
-1. Cursor (ALT-M)
-1. Lápiz (ALT-P) – nos abre una paleta de colores para trazar.
-1. borrador (ALT-E)
-1. Borrar toda la pantalla (ALT-Z)
-1. Insertar Webcam (ALT-C)
-1. Ocultar paleta de herramientas (ALT-T) – con este comando también nos reactiva el panel de herramientas si lo tenemos oculto.
+ <img src="img/image03.3.jpg" height="81" />
+1. Enfocar cursor (ALT+F)
+2. Ocultar cursor (ALT+H)
+3. Cursor (ALT-M)
+4. Lápiz (ALT-P) – nos abre una paleta de colores para trazar.
+5. borrador (ALT-E)
+6. Borrar toda la pantalla (ALT-Z)
+7. Insertar Webcam (ALT-C)
+8. Ocultar paleta de herramientas (ALT-T) – con este comando también nos reactiva el panel de herramientas si lo tenemos oculto.
 
 
 
@@ -52,8 +52,10 @@ Cuando activamos la grabación en modo desktop nos sale un mensaje informativo p
 
 
 
-**<img alt="TOSHIBA EXT:CAPTURAS:FOTOS:SCREENCASTIFY:08-Screeencastify.jpg" src="img/image04.2.jpg" height="317" />Modo de Grabación Cam:**
+**
+Modo de Grabación Cam:**
 
+<img alt="TOSHIBA EXT:CAPTURAS:FOTOS:SCREENCASTIFY:08-Screeencastify.jpg" src="img/image04.2.jpg" height="317" />
 
 
 El modo de grabación nos permite hacer una captura a pantalla completa de la webcam a su máxima resolución y grabar el audio de entrada de micrófono (bien se de la propia cam o uno externo). El tamaño de este vídeo puede ser comprobado en la ventana principal de grabación una vez que nos situamos en la pestaña cam.
@@ -92,5 +94,5 @@ Además, en la parte de la derecha de la ventana, tenemos una ventana que nos da
 
 ## ¿Quieres ver cómo se hace?
 
-<iframe width="100%" height="350" style="display: block; margin-left: auto; margin-right: auto;" src="//www.youtube.com/embed/Sl0-vXcGzVI?rel=0" frameborder="0"></iframe>     
+https://www.youtube.com/watch?v=Sl0-vXcGzVI
 

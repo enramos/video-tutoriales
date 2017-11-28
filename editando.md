@@ -1,26 +1,17 @@
 
 # Editando
 
-<img src="img/OpcionesEzvid.png" height="175" />Ezvid ofrece herramientas muy básicas de edición. Una vez grabada la pantalla nos devuelve a la pantalla principal, donde podremos empezar a editar nuestro vídeo.
+Ezvid ofrece herramientas muy básicas de edición. Una vez grabada la pantalla nos devuelve a la pantalla principal, donde podremos empezar a editar nuestro vídeo.
 
 Las opciones de edición que nos ofrece se abren con el botón derecho.
+<img src="img/OpcionesEzvid.png" height="175" />
 
-<li>
-Borrar
-</li>
-<li>
-Duplicar
-</li>
-<li>
-Velocidad (de 25% a 600%)
-</li>
-<li>
-Dividir
-</li>
-
-Duplicar
-
-Dividir
+* Borrar
+* Duplicar
+* Velocidad (de 25% a 600%)
+* Dividir
+* Duplicar
+* Dividir
 
 Por otro lado, podemos también añadir fotografías y vídeos (botón add pictures or videos). A las fotografías se les aplica un efecto “ken burns” (zoom in).
 
