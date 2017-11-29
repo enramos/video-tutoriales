@@ -21,4 +21,4 @@ Podemos ver más opciones de instalación en la web oficial del programa: [http
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=DSBXuWAltfM
+{% youtube %}https://www.youtube.com/watch?v=DSBXuWAltfM{% endyoutube %}

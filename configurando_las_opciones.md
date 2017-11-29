@@ -19,4 +19,4 @@ Con esto acabaríamos el apartado dedicado a Screencastify, un programa muy sen
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=scuf-K8DOrk
+{% youtube %}https://www.youtube.com/watch?v=scuf-K8DOrk{% endyoutube %}

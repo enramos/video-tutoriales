@@ -44,5 +44,5 @@ Una vez aplicados los efectos, sólo queda pulsar en el **Done** y **exportar** 
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=oeS7k-QzvEs
+{% youtube %}https://www.youtube.com/watch?v=oeS7k-QzvEs{% endyoutube %}
 

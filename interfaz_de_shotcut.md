@@ -1,8 +1,8 @@
 
 # Interfaz de Shotcut.
 
-https://www.youtube.com/watch?v=oA8rjt2o-mM
+{% youtube %}https://www.youtube.com/watch?v=oA8rjt2o-mM{% endyoutube %}
 
 
-https://www.youtube.com/watch?v=sLBsALVtBuI
+{% youtube %}https://www.youtube.com/watch?v=sLBsALVtBuI{% endyoutube %}
 

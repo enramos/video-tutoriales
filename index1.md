@@ -33,5 +33,5 @@ Respecto al audio, soporta grabar desde la entrada de micro. Además normaliza a
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=X8K4Vo7UyWo
+{% youtube %}https://www.youtube.com/watch?v=X8K4Vo7UyWo{% endyoutube %}
 

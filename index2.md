@@ -36,4 +36,4 @@
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=da45tN9uhfw
+{% youtube %}https://www.youtube.com/watch?v=da45tN9uhfw{% endyoutube %}

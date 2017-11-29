@@ -1,5 +1,5 @@
 
 # Edición multipista en Shotcut
 
-https://www.youtube.com/watch?v=JxWQdEscZ_Y
+{% youtube %}https://www.youtube.com/watch?v=JxWQdEscZ_Y{% endyoutube %}
 

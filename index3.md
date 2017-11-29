@@ -58,5 +58,5 @@ Si sólo queremos utilizar Screencast-o-matic de una manera puntual, lo ideal es
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=tgM-WXSZ5IM
+{% youtube %}https://www.youtube.com/watch?v=tgM-WXSZ5IM{% endyoutube %}
 

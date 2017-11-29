@@ -48,4 +48,4 @@ En esta ocasión la mecánica es la contraria a la que veremos en Screencast-o-m
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=eiJb-pZzgFs
+{% youtube %}https://www.youtube.com/watch?v=eiJb-pZzgFs{% endyoutube %}

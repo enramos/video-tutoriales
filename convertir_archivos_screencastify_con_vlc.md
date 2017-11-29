@@ -48,5 +48,5 @@ Y ya está, ya tendríamos el archivo en formato MP4
 
 
 ## ¿Quieres ver cómo se hace?
-https://www.youtube.com/watch?v=y_ZJtUummLc
+{% youtube %}https://www.youtube.com/watch?v=y_ZJtUummLc{% endyoutube %}
 

@@ -1,4 +1,4 @@
 
 # Instalación de Shotcut en Windows
 
-https://www.youtube.com/watch?v=OwJccs5gKY0
+{% youtube %}https://www.youtube.com/watch?v=OwJccs5gKY0{% endyoutube %}

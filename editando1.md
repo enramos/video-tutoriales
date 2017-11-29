@@ -94,5 +94,5 @@ Además, en la parte de la derecha de la ventana, tenemos una ventana que nos da
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=Sl0-vXcGzVI
+{% youtube %}https://www.youtube.com/watch?v=Sl0-vXcGzVI{% endyoutube %}
 

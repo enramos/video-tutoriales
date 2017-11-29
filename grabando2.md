@@ -42,5 +42,5 @@ La versión de pago, que cuesta 15 dólares, como unos 10 euros, ofrece una gran
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=ztbt1gSyfjA
+{% youtube %}https://www.youtube.com/watch?v=ztbt1gSyfjA{% endyoutube %}
 

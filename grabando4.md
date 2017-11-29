@@ -24,5 +24,5 @@ SimpleScreenRecorder no tiene opciones de edición por lo que tendríamos que ut
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=06OV5IcYZWo
+{% youtube %}https://www.youtube.com/watch?v=06OV5IcYZWo{% endyoutube %}
 

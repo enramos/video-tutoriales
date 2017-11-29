@@ -27,5 +27,5 @@ Una vez ajustado esto pulsaríamos sobre ****Edit Video**** para pasar a la vent
 
 ## ¿Quieres ver cómo se hace?
 
-https://www.youtube.com/watch?v=0DdqSlj7K7A
+{% youtube %}https://www.youtube.com/watch?v=0DdqSlj7K7A{% endyoutube %}
 
