@@ -1,3 +1,1 @@
-{
-    "plugins": ["youtube"]
-}
+{"plugins": ["youtube", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/video-tutoriales/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "video-tutoriales"}}}
