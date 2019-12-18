@@ -1,1 +1,21 @@
-{"plugins": ["youtube", "edit-link", "githubcontributors"], "pluginsConfig": {"edit-link": {"base": "https://github.com/catedu/video-tutoriales/edit/master", "label": "Edita esta página"}, "githubcontributors": {"githubOwner": "catedu", "githubRepository": "video-tutoriales"}}}
+{
+  "plugins": [
+    "youtube",
+    "edit-link",
+    "githubcontributors",
+    "ga"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/catedu/video-tutoriales/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "video-tutoriales"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
+    }
+  }
+}
